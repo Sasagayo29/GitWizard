@@ -16,9 +16,8 @@ A aplicação é multithreaded para garantir que a interface nunca congele duran
 
 ### 🖼️ Screenshot (Placeholder)
 
-> **Nota:** Adicione aqui um screenshot da sua aplicação em ação! Um bom screenshot é a parte mais importante de um README de UI.
+<img width="1250" height="943" alt="image" src="https://github.com/user-attachments/assets/71cdc53d-f16f-4029-aa1d-fdde681c49c7" />
 
-![[INSIRA AQUI UM SCREENSHOT DO GITWIZARD]](https://i.imgur.com/gYf4g4j.png)
 
 ## ✨ Funcionalidades Principais
 

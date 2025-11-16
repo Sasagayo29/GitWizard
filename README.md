@@ -107,5 +107,3 @@ Para executar este projeto localmente:
 
 Este projeto está licenciado sob a Licença MIT. Veja o ficheiro `LICENSE` para mais detalhes.
 
----
-*Este projeto foi construído como parte de uma sessão de desenvolvimento colaborativo com a IA do Google.*
